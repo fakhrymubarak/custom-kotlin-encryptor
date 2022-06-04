@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="custom_encryption.CaesarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-04T06:30:34" hostname="CRM-CPNITDEVFKY" time="7.462">
+  <properties/>
+  <testcase name="encryptWithCaesar_shouldEncryptAlphanumericChar_withKey0until100000" classname="custom_encryption.CaesarTest" time="3.716"/>
+  <testcase name="encryptWithCaesar_shouldEncryptAlphanumericChar_withKey1" classname="custom_encryption.CaesarTest" time="0.0"/>
+  <testcase name="decryptWithCaesar_shouldDecryptAlphanumericChar_withKey0until100000" classname="custom_encryption.CaesarTest" time="3.746"/>
+  <testcase name="decryptWithCaesar_shouldDecryptAlphanumericChar_withKey1" classname="custom_encryption.CaesarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
